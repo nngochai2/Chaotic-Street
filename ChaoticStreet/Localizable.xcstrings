@@ -1,0 +1,1338 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    "#%lld" : {
+
+    },
+    "%@" : {
+
+    },
+    "%lfs" : {
+
+    },
+    "%lld" : {
+
+    },
+    "%lld pts" : {
+
+    },
+    "%lldm" : {
+
+    },
+    "→" : {
+
+    },
+    "🎮" : {
+
+    },
+    "🎯" : {
+
+    },
+    "🏅" : {
+
+    },
+    "🏆" : {
+
+    },
+    "📊" : {
+
+    },
+    "🔐" : {
+
+    },
+    "🔑" : {
+
+    },
+    "🔒" : {
+
+    },
+    "🚀" : {
+
+    },
+    "3D Effects" : {
+      "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiệu ứng 3D"
+          }
+        }
+      }
+    },
+    "Account Deleted" : {
+
+    },
+    "Achieved at: ---" : {
+
+    },
+    "Achieved at: %@" : {
+
+    },
+    "Achieved: %@" : {
+
+    },
+    "Achievements" : {
+
+    },
+    "Already have an account?" : {
+
+    },
+    "Angle: %lld°" : {
+
+    },
+    "Back to Login" : {
+
+    },
+    "Back to Menu" : {
+
+    },
+    "Be the first to play and set a high score!" : {
+
+    },
+    "Cancel" : {
+
+    },
+    "Chaotic Street" : {
+      "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phố Loạn"
+          }
+        }
+      }
+    },
+    "Copy Values" : {
+
+    },
+    "Create Account" : {
+
+    },
+    "Create New Account" : {
+
+    },
+    "Create your account and start playing" : {
+
+    },
+    "Debug Info" : {
+
+    },
+    "Delete Account" : {
+
+    },
+    "Delete Failed" : {
+
+    },
+    "Delete My Account" : {
+
+    },
+    "Destructive action. This will delete all your game progress and reset all settings to their default values." : {
+
+    },
+    "Difficulty" : {
+      "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Độ khó"
+          }
+        }
+      }
+    },
+    "Difficulty: %@" : {
+      "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Độ khó: %@"
+          }
+        }
+      }
+    },
+    "Distance" : {
+
+    },
+    "Distance: %lld" : {
+
+    },
+    "Distance: %lldm" : {
+
+    },
+    "Don't have an account?" : {
+
+    },
+    "Edit Bio" : {
+
+    },
+    "Email: %@" : {
+
+    },
+    "English" : {
+      "shouldTranslate" : false
+    },
+    "Enter your bio" : {
+
+    },
+    "Enter your current password and choose a new one" : {
+
+    },
+    "Enter your email to receive a password reset link" : {
+
+    },
+    "Exit" : {
+
+    },
+    "Fetch Achievements" : {
+
+    },
+    "Forgot Password?" : {
+
+    },
+    "Game" : {
+
+    },
+    "GAME OVER" : {
+
+    },
+    "game.difficultyLevel" : {
+      "comment" : "Difficulty level status shown in the game view",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Difficulty"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Độ khó"
+          }
+        }
+      }
+    },
+    "game.highScore" : {
+      "comment" : "High score of the player shown in the game view",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "High Score"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Điểm cao"
+          }
+        }
+      }
+    },
+    "game.score" : {
+      "comment" : "Current score of the game round shown in the game view",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Score"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Điểm"
+          }
+        }
+      }
+    },
+    "Height: %lld" : {
+
+    },
+    "Hide Controls" : {
+
+    },
+    "High Score: %lld" : {
+
+    },
+    "instructions.caution" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Be careful!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cẩn thận!"
+          }
+        }
+      }
+    },
+    "instructions.caution.info" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watch out for buses, cars, motorbikes, trees, and don't fall off the wooden rafts on the river."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Để ý cây chắn đường, xe bus, ô tô, xe máy đang chạy trên đường đi và đừng ngã khỏi thanh gỗ trôi trên sông."
+          }
+        }
+      }
+    },
+    "instructions.moveBackward" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Step back"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đi lùi"
+          }
+        }
+      }
+    },
+    "instructions.moveForward" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Walk forward"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đi tiến"
+          }
+        }
+      }
+    },
+    "instructions.nextPage" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiếp"
+          }
+        }
+      }
+    },
+    "instructions.previousPage" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Previous"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quay lại"
+          }
+        }
+      }
+    },
+    "instructions.swipeDown" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Swipe down"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vuốt xuống"
+          }
+        }
+      }
+    },
+    "instructions.swipeLeft" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Swipe left"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vuốt trái"
+          }
+        }
+      }
+    },
+    "instructions.swipeRight" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Swipe right"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vuốt phải"
+          }
+        }
+      }
+    },
+    "instructions.tap" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chạm"
+          }
+        }
+      }
+    },
+    "instructions.tip" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smart pedestrian bonus:"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mẹo qua đường thông minh:"
+          }
+        }
+      }
+    },
+    "instructions.tip.info" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Always cross at the zebra crossing and follow the traffic lights. If you jaywalk, you'll lose points!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luôn qua đường trên vạch kẻ và tuân thủ đèn tín hiệu. Nếu bạn không đi đúng vạch kẻ, bạn sẽ bị mất điểm!"
+          }
+        }
+      }
+    },
+    "instructions.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Game Instructions"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hướng dẫn chơi"
+          }
+        }
+      }
+    },
+    "instructions.turnLeft" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turn left"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rẽ trái"
+          }
+        }
+      }
+    },
+    "instructions.turnRight" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turn right"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rẽ phải"
+          }
+        }
+      }
+    },
+    "Isometric Preset" : {
+
+    },
+    "Join the Game!" : {
+
+    },
+    "Key" : {
+      "extractionState" : "manual"
+    },
+    "Lane %lld" : {
+
+    },
+    "Lane Numbers" : {
+
+    },
+    "Lane Offset: %lld" : {
+
+    },
+    "Lane Positioning" : {
+
+    },
+    "Lane Size" : {
+
+    },
+    "Lane Spacing: %lld" : {
+
+    },
+    "Lane-Based Road System" : {
+
+    },
+    "Lanes: %lld" : {
+
+    },
+    "Leaderboard" : {
+
+    },
+    "leaderboard.title" : {
+
+    },
+    "Lesson: Be cautious crossing busy streets!" : {
+
+    },
+    "Let's cross the roads safely!" : {
+
+    },
+    "Load My Scores" : {
+
+    },
+    "Loading achievements..." : {
+
+    },
+    "Loading your scores..." : {
+
+    },
+    "My Scores" : {
+
+    },
+    "No Achievements Yet" : {
+
+    },
+    "No Games Played Yet" : {
+
+    },
+    "No Scores Yet" : {
+
+    },
+    "Not yet achieved" : {
+
+    },
+    "Offset: %lld" : {
+
+    },
+    "OK" : {
+
+    },
+    "Passwords don't match" : {
+
+    },
+    "Pause" : {
+
+    },
+    "Performance Chart" : {
+
+    },
+    "Refresh Achievements" : {
+
+    },
+    "Refresh Leaderboard" : {
+
+    },
+    "Reset" : {
+
+    },
+    "Reset Password" : {
+
+    },
+    "Restart" : {
+
+    },
+    "Resume" : {
+
+    },
+    "Road Config" : {
+
+    },
+    "Run" : {
+
+    },
+    "Save" : {
+
+    },
+    "Save Score" : {
+
+    },
+    "Scale: %@" : {
+
+    },
+    "Score" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Score"
+          }
+        }
+      }
+    },
+    "Score %lld" : {
+      "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Điểm %lld"
+          }
+        }
+      }
+    },
+    "Score: %lld" : {
+
+    },
+    "Screen: %lld×%lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Screen: %1$lld×%2$lld"
+          }
+        }
+      }
+    },
+    "Scrolling" : {
+
+    },
+    "Send Reset Link" : {
+
+    },
+    "settings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cài đặt"
+          }
+        }
+      }
+    },
+    "settings.account" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Account"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tài khoản"
+          }
+        }
+      }
+    },
+    "settings.account.changePassword" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change password"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đổi mật khẩu"
+          }
+        }
+      }
+    },
+    "settings.account.changeProfilePic" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change your profile picture"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đổi ảnh đại diện"
+          }
+        }
+      }
+    },
+    "settings.account.editBio" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit bio"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỉnh sửa tiểu sử"
+          }
+        }
+      }
+    },
+    "settings.account.editBio.cancelBtn" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Huỷ bỏ"
+          }
+        }
+      }
+    },
+    "settings.account.editBio.saveBtn" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lưu"
+          }
+        }
+      }
+    },
+    "settings.account.logIn" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log in or Sign up"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đăng nhập hoặc Đăng ký"
+          }
+        }
+      }
+    },
+    "settings.account.logOut" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log out"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đăng xuất"
+          }
+        }
+      }
+    },
+    "settings.account.noBio" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No bio"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không có tiểu sử"
+          }
+        }
+      }
+    },
+    "settings.bgVolume" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Background Volume"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Âm lượng nhạc nền"
+          }
+        }
+      }
+    },
+    "settings.bgVolume.info" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Control the volume of the game’s background music."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Điều khiển âm lượng tiếng nhạc nền của trò chơi."
+          }
+        }
+      }
+    },
+    "settings.credits" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Credits"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giới thiệu"
+          }
+        }
+      }
+    },
+    "settings.credits.info" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Developed by\nNguyen Ngoc Hai\nNguyen Danh Bao\nNguyen Tuan Minh Khoi\nNguyen Huy Hoang (Hinata)\nBui Minh Duc\nIT students at RMIT University Vietnam"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phát triển bởi\nNguyen Ngoc Hai\nNguyen Danh Bao\nNguyen Tuan Minh Khoi\nNguyen Huy Hoang (Hinata)\nBui Minh Duc\nSinh viên ngành Công nghệ thông tin, Đại học RMIT Việt Nam"
+          }
+        }
+      }
+    },
+    "settings.difficulty" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Difficulty"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Độ khó"
+          }
+        }
+      }
+    },
+    "settings.difficulty.easy" : {
+      "comment" : "Difficulty level of the game where the user might have little to no problems playing the game.",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Easy"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dễ"
+          }
+        }
+      }
+    },
+    "settings.difficulty.easy.info" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In Easy mode, cars will go slower and points will not be deducted for not going on the zebra crossings."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ở mức Dễ, các xe sẽ đi chậm hơn và điểm sẽ không bị trừ cho việc không đi đúng vạch kẻ đường."
+          }
+        }
+      }
+    },
+    "settings.difficulty.hard" : {
+      "comment" : "Difficulty level of the game where the game is more harsh towards the user.",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hard"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khó"
+          }
+        }
+      }
+    },
+    "settings.difficulty.hard.info" : {
+      "extractionState" : "manual"
+    },
+    "settings.difficulty.medium" : {
+      "comment" : "Difficulty level of the game where the user might encounter some mild obstacles.",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medium"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trung bình"
+          }
+        }
+      }
+    },
+    "settings.difficulty.medium.info" : {
+      "extractionState" : "manual"
+    },
+    "settings.done" : {
+      "comment" : "Exit the Settings sheet view.",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xong"
+          }
+        }
+      }
+    },
+    "settings.gameInstruction" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Game instructions"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hướng dẫn chơi"
+          }
+        }
+      }
+    },
+    "settings.language" : {
+      "comment" : "Option to change the language of the display text shown in the application.",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Language"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngôn ngữ"
+          }
+        }
+      }
+    },
+    "settings.reset" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset all settings and game data"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đặt lại toàn bộ cài đặt và dữ liệu chơi"
+          }
+        }
+      }
+    },
+    "settings.reset.cancelBtn" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Huỷ bỏ"
+          }
+        }
+      }
+    },
+    "settings.reset.confirmBtn" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đặt lại"
+          }
+        }
+      }
+    },
+    "settings.reset.failed" : {
+
+    },
+    "settings.reset.info" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This will delete all your game progress and reset all settings to their default values."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toàn bộ tiến trình trò chơi của bạn sẽ bị xoá và cài đặt trò chơi sẽ được khôi phục về ban đầu."
+          }
+        }
+      }
+    },
+    "settings.reset.prompt" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bạn chắc chứ?"
+          }
+        }
+      }
+    },
+    "settings.reset.success" : {
+
+    },
+    "settings.reset.success.info" : {
+
+    },
+    "settings.sfxVolume" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sound Effect Volume"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Âm lượng hiệu ứng trò chơi"
+          }
+        }
+      }
+    },
+    "settings.sfxVolume.info" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Control the volume of the sound effects used in the game."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Điều khiển âm lượng của các hiệu ứng âm thanh được phát trong trò chơi."
+          }
+        }
+      }
+    },
+    "settings.theme" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Theme"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chủ đề ứng dụng"
+          }
+        }
+      }
+    },
+    "settings.theme.dark" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dark"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chế độ tối"
+          }
+        }
+      }
+    },
+    "settings.theme.followSystem" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Follow system"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Theo hệ thống"
+          }
+        }
+      }
+    },
+    "settings.theme.light" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Light"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chế độ sáng"
+          }
+        }
+      }
+    },
+    "Show Controls" : {
+
+    },
+    "Sign In & Play" : {
+
+    },
+    "Sign in to continue your game" : {
+
+    },
+    "Spacing: %lld" : {
+
+    },
+    "Spacing: %lldpx" : {
+
+    },
+    "splash.subtitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A project made by students of\nRMIT University Vietnam"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Một dự án được thực hiện bởi\nsinh viên Đại học RMIT Việt Nam"
+          }
+        }
+      }
+    },
+    "Start" : {
+
+    },
+    "Start playing to see your score history and track your progress!" : {
+
+    },
+    "Start playing to unlock your first achievements!" : {
+
+    },
+    "This will permanently delete your account, all your scores, and all your data. This action cannot be undone." : {
+
+    },
+    "Tiếng Việt" : {
+      "shouldTranslate" : false
+    },
+    "Time Alive" : {
+
+    },
+    "Time Alive: %lf" : {
+
+    },
+    "Top players from around the world" : {
+
+    },
+    "Update Password" : {
+
+    },
+    "User ID" : {
+
+    },
+    "User ID: %@" : {
+
+    },
+    "User Scores" : {
+
+    },
+    "Welcome Back!" : {
+
+    },
+    "Width: %lld" : {
+
+    },
+    "Y: %lld" : {
+
+    },
+    "Your account and all data have been deleted." : {
+
+    },
+    "Your gaming milestones and accomplishments" : {
+
+    },
+    "Your personal performance history" : {
+
+    },
+    "Z: %lld" : {
+
+    }
+  },
+  "version" : "1.0"
+}
